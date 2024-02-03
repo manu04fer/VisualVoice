@@ -1,6 +1,8 @@
 # VisualVoice
 
-A new Flutter project.
+Un proyecto de reconocimiento de texto y reproduccion de audio.
+
+Este trabajo explora la accesibilidad para personas con discapacidades visuales en el acceso a contenido escrito. Aborda conceptos clave como el reconocimiento óptico de caracteres (OCR) y la síntesis de voz, esenciales para convertir texto impreso en discurso audible. Detalla tecnologías de OCR y síntesis de voz, analizando herramientas y bibliotecas para su implementación. 
 
 ## Getting Started
 
